@@ -26,3 +26,15 @@
 body {
   background-color: darkgoldenrod;
 }
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+body a {
+  background-color: rgb(151, 114, 231);
+}
