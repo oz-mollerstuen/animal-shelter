@@ -1,0 +1,28 @@
+.column{
+  float: left;
+  width: 30%;
+  display: block;
+}
+
+.font1{
+  font-style: italic;
+  color: chartreuse;
+}
+
+.font2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.font3{
+  font-family: fantasy;
+  color: darkgreen;
+}
+
+.font4{
+  font-style: bold;
+  color: cornflowerblue;
+}
+
+body {
+  background-color: darkgoldenrod;
+}
